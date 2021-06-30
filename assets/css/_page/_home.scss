@@ -175,6 +175,7 @@
 
       .post-tags {
         padding: 0;
+        visibility: hidden;
 
         @include link(true, true);
       }

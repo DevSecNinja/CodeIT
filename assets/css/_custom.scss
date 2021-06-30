@@ -2,3 +2,8 @@
 // Custom style
 // 自定义样式
 // ==============================
+
+// Hide post tags on home page
+.home[posts] .summary .post-footer .post-tags {
+    visibility: hidden;
+}
