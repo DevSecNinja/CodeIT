@@ -28,9 +28,9 @@
     "prettier": "^2.3.1",
     "segmentit": "^2.0.3",
     "standard-version": "^9.3.0",
-    "stylelint": "^13.13.1",
+    "stylelint": "^14.8.2",
     "stylelint-config-prettier": "^8.0.2",
-    "stylelint-config-standard": "^22.0.0",
+    "stylelint-config-standard": "^25.0.0",
     "stylelint-scss": "^3.19.0"
   },
   "scripts": {
